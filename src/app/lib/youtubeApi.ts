@@ -1,4 +1,3 @@
-import axios from 'axios'
 import { YoutubeTranscript } from 'youtube-transcript'
 
 export async function getTranscript(videoUrl: string): Promise<string> {

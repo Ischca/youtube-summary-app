@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import Header from '@/app/components/Header'
 import Footer from '@/app/components/Footer'
 import SummaryForm from '@/app/components/SummaryForm'
